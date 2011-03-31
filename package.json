@@ -1,0 +1,16 @@
+{
+  "name": "express-doc",
+  "description": "Documentation helper for express applications",
+  "version": "0.0.1",
+  "author": "Conner Petzold <cpetzold@gmail.com> (http://the0th.com)",
+  "main": "lib/doc",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "node-markdown": "0.1.0"
+  },
+  "engines": {
+    "node": "0.4.2"
+  }
+}
